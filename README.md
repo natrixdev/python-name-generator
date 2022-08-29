@@ -14,5 +14,6 @@
 | Neutral Names | 
 |---------------|
 |Create random last names|
+|Create random names|
 
 
