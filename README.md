@@ -2,7 +2,7 @@
 
 # Summary
 
-- [Install the module names](### Requires module "names")
+- [Install the module names](https://github.com/natrixdev/python-name-generator#Summary###Requiresmodule"names")
 - [Create random names with python](
 - [Create random male names](
 - [Create random female names](
