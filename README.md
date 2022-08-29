@@ -1,5 +1,16 @@
 # Python names generator.
 
+# Summary
+
+- [Install the module names](### Requires module "names")
+- [Create random names with python](
+- [Create random male names](
+- [Create random female names](
+- [Create random male first names](
+- [Create random female first names](
+- [Create random last names](
+
+
 ### Requires module "names"
 `pip install names`
 
