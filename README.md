@@ -8,9 +8,7 @@
 | Male Names                               | Female Names                             |
 | ---------------------------------------- | ---------------------------------------- |
 | Create random male names                 | Create random female names               |
-
 |Create random male first names            | Create random female first names         |
-
 |Create random last names|
 
 
