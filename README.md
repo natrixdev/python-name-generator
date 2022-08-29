@@ -3,12 +3,12 @@
 # Summary
 
 - [Install the module names](https://github.com/natrixdev/python-name-generator#1)
-- [Create random names with python](
-- [Create random male names](
-- [Create random female names](
-- [Create random male first names](
-- [Create random female first names](
-- [Create random last names](
+- [Create random names with python](https://github.com/natrixdev/python-name-generator#2)
+- [Create random male names](https://github.com/natrixdev/python-name-generator#3)
+- [Create random female names](https://github.com/natrixdev/python-name-generator#4)
+- [Create random male first names](https://github.com/natrixdev/python-name-generator#5)
+- [Create random female first names](https://github.com/natrixdev/python-name-generator#6)
+- [Create random last names](https://github.com/natrixdev/python-name-generator#7)
 
 # 1
 ### Requires module "names"
@@ -29,6 +29,8 @@
 
 # Usages:
 
+# 2
+
 ## Create random names with python
 Then to create random names just do:
 
@@ -41,6 +43,8 @@ for i in range(10):
 
 ## Create random male names
 
+# 3
+
 ```py
 for i in range(10):
     rand_name = names.get_full_name(gender='male')
@@ -48,6 +52,8 @@ for i in range(10):
  ```
     
 ## Create random female names
+
+# 4
 
 ```py
 for i in range(10):
@@ -57,6 +63,8 @@ for i in range(10):
 
 ## Create random male first names
 
+# 5
+
 ```py
 for i in range(10):
         rand_name = names.get_first_name(gender='male')
@@ -65,11 +73,15 @@ for i in range(10):
 
 ## Create random female first names
 
+# 6
+
 ```py
 for i in range(10):
     rand_name = names.get_first_name(gender='female')
     print(rand_name)
 ```
+
+# 7
 
 ## Create random last names
 
