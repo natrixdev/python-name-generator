@@ -40,20 +40,19 @@ import names
 for i in range(10):
     print(names.get_full_name())
 ```
+# 3
 
 ## Create random male names
-
-# 3
 
 ```py
 for i in range(10):
     rand_name = names.get_full_name(gender='male')
     print(rand_name)
  ```
-    
+ 
+ # 4
+ 
 ## Create random female names
-
-# 4
 
 ```py
 for i in range(10):
@@ -61,9 +60,9 @@ for i in range(10):
     print(rand_name)
 ```
 
-## Create random male first names
-
 # 5
+
+## Create random male first names
 
 ```py
 for i in range(10):
@@ -71,9 +70,9 @@ for i in range(10):
         print(rand_name)
 ```
 
-## Create random female first names
-
 # 6
+
+## Create random female first names
 
 ```py
 for i in range(10):
